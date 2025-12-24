@@ -37,8 +37,8 @@ Current version: **v2.1.0**
 |--------|----------------|
 | 1. 打开 KPengDeployTool<br>2. 选择您的项目框架（Flutter、Unity、Cocos 或 UniApp）<br>3. 加载您的项目文件<br>4. 配置构建设置<br>5. 启动打包过程<br>6. 使用内置的穿透功能生成二维码进行分发 | 1. Open KPengDeployTool<br>2. Select your project framework (Flutter, Unity, Cocos, or UniApp)<br>3. Load your project files<br>4. Configure build settings<br>5. Initiate the packaging process<br>6. Use the built-in tunneling feature to generate QR codes for distribution |
 
-## 许可证 / License
+<!-- ## 许可证 / License
 [License information would go here]
 
 ## 支持 / Support
-For support or questions, please contact the development team.
+For support or questions, please contact the development team. -->
