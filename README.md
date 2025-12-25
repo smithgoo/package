@@ -1,10 +1,12 @@
 # KPengDeployTool
 
-![KPengDeployTool Screenshot](截屏2025-12-24 22.18.37.png)
-
 > 🇨🇳 中文版 | [English Version](#english-version-below)
 
 **KPengDeployTool** 是一款综合的移动应用打包和分发工具。它支持打包 Flutter、Unity、Cocos 和 UniApp 项目，内置内外网穿透功能，提供基于二维码的下载和分发，兼容 iOS 和安卓平台。
+
+![KPengDeployTool Screenshot](截屏2025-12-24 22.18.37.png)
+
+*Note: For GitHub display, rename the image file to use ASCII characters (e.g., screenshot.png) and update the reference accordingly.*
 
 ## 版本
 当前版本：**v2.1.0**
