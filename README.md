@@ -47,13 +47,13 @@ KPengDeployTool 是一款 macOS 应用程序，可简化跨平台移动应用的
 5. 启动打包过程
 6. 使用内置的穿透功能生成二维码进行分发
 
-## 许可证
+<!-- ## 许可证
 [License information would go here]
 
 ## 支持
 如需支持或疑问，请联系开发团队。
 
----
+--- -->
 
 ## English Version Below
 
@@ -97,8 +97,8 @@ KPengDeployTool is a macOS application that simplifies the build and distributio
 5. Initiate the packaging process
 6. Use the built-in tunneling feature to generate QR codes for distribution
 
-## License
+<!-- ## License
 [License information would go here]
 
 ## Support
-For support or questions, please contact the development team.
+For support or questions, please contact the development team. -->
